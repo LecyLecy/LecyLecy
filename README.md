@@ -1,4 +1,8 @@
 ## Hi there 👋
+## 🤔 I’m looking for help with joblessness
+## 📸 [@adinza18](https://www.instagram.com/adinza18)
+[![Lecy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lecylecy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **LecyLecy/LecyLecy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Lecy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lecylecy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
