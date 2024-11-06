@@ -44,4 +44,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Lecy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lecylecy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+https://youtu.be/f9cViIsTarw?si=h8qw0iXXR2vmrYcA
 -->
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![testing readme... sry 😥](https://ytcards.demolab.com/?id=f9cViIsTarw&title=Minji+Nyanyi+'Pernah+Muda'Cover&lang=en&timestamp=1730221200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=174 "[By Jeans] 'Laufey - Falling Behind' Cover by MINJI | NewJeans")](https://youtu.be/f9cViIsTarw?si=h8qw0iXXR2vmrYcA)
+<!-- END YOUTUBE-CARDS -->
