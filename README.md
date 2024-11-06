@@ -6,6 +6,12 @@
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+<!-- BEGIN YOUTUBE-CARDS -->
+# 😅 testing readme... sry
+[![Minji](https://ytcards.demolab.com/?id=f9cViIsTarw&title=Minji+Nyanyi+'Pernah+Muda'Cover&lang=en&timestamp=1730221200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=174 "[By Jeans] 'Laufey - Falling Behind' Cover by MINJI | NewJeans")](https://youtu.be/f9cViIsTarw?si=h8qw0iXXR2vmrYcA)
+<!-- END YOUTUBE-CARDS -->
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=LecyLecy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LecyLecy&theme=dark&hide_border=false)<br/>
@@ -47,7 +53,3 @@ Here are some ideas to get you started:
 
 https://youtu.be/f9cViIsTarw?si=h8qw0iXXR2vmrYcA
 -->
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![testing readme... sry 😥](https://ytcards.demolab.com/?id=f9cViIsTarw&title=Minji+Nyanyi+'Pernah+Muda'Cover&lang=en&timestamp=1730221200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=174 "[By Jeans] 'Laufey - Falling Behind' Cover by MINJI | NewJeans")](https://youtu.be/f9cViIsTarw?si=h8qw0iXXR2vmrYcA)
-<!-- END YOUTUBE-CARDS -->
