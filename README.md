@@ -50,9 +50,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LecyLecy&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LecyLecy&layout=compact&hide_border=true" />
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=LecyLecy&hide_border=true" />
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LecyLecy&hide_border=true" />
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-Feel free to reach out to collaborate on AI, data, or software projects—or to talk about technology.
+Feel free to reach out to collaborate on AI, data, or software projects, or to talk about technology.
 
 <br>
 
@@ -101,6 +101,6 @@ Feel free to reach out to collaborate on AI, data, or software projects—or to 
 
 ### Thanks for visiting! 👋
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=LecyLecy&style=flat-square&label=Profile+Views" />
 
 </div>
