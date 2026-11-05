@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Saladin Zhalifunnas Ahfar 👋
+# Hi, I'm Saladin Zhalifunnas Ahfar!👋<br>
+But you can call me Adin! 
+
 
 ### AI & Software Developer • Computer Science Student • Intelligent Systems Enthusiast
 
