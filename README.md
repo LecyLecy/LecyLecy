@@ -4,10 +4,10 @@
 But you can call me Adin! 
 
 
-### AI & Software Developer • Computer Science Student • Intelligent Systems Enthusiast
+### Data & Software Enthusiast • Computer Science Student • Technology Enthusiast
 
 <p>
-  Building practical AI systems and full-stack applications that turn data into useful experiences.
+  Building data-driven solutions and software applications that turn raw data into meaningful insights and practical experiences.
 </p>
 
 <a href="https://instagram.com/adinza18">
@@ -24,11 +24,11 @@ But you can call me Adin!
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science student at BINUS University, specializing in Intelligent Systems
-* 🤖 Focused on machine learning, computer vision, NLP, and AI-assisted applications
-* 💻 Build end-to-end projects, from data and models to usable web interfaces
-* 📊 Interested in turning real-world data into clear and responsible decisions
+* 📊 Focused on data analysis, data processing, machine learning, and data-driven applications
+* 💻 Build end-to-end projects, from collecting and transforming data to developing models and usable applications
+* 🔍 Interested in uncovering insights, solving real-world problems, and supporting informed decisions through data
 * 🧪 Learn through experimentation, research, competitions, and team projects
-* 🤝 Open to AI, data, and software engineering collaborations
+* 🤝 Open to data, technology, and software engineering collaborations
 
 ---
 
@@ -52,7 +52,7 @@ But you can call me Adin!
 
 <div align="center">
 
-Feel free to reach out to collaborate on AI, data, or software projects, or to talk about technology.
+Feel free to reach out to collaborate on data, analytics, or software projects, or to talk about technology.
 
 <br>
 
